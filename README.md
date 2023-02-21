@@ -5,10 +5,10 @@
   <h1 align="center">Potisfy - A Spotify Clone built with React. </h1>
 </div>
 <h2 align="center">Potisfy Discover Page</h2>
-<p align="center"><a><img src="./gallery/lyrics.png" width="1000" alt=""></a></p><br>
+<p align="center"><a><img src="./gallery/discover.png" width="1000" alt=""></a></p><br>
 
 <h2 align="center">Potisfy Lyrics Page</h2>
-<p align="center"><a><img src="./gallery/search.png" width="1000" alt=""></a></p><br><br>
+<p align="center"><a><img src="./gallery/lyrics.png" width="1000" alt=""></a></p><br><br>
 
 <h2 align="center">Potisfy Search Page</h2>
 <p align="center"><a><img src="./gallery/search.png" width="1000" alt=""></a></p><br><br>
