@@ -1,6 +1,6 @@
 <div align="center">
   <a href="">
-    <img src="./src/assets/logo.svg" alt="Logo" width="80" height="80">
+    <img src="./gallery/logo.svg" alt="Logo" width="80" height="80">
   </a>
   <h1 align="center">Potisfy - A Spotify Clone built with React. </h1>
 </div>
@@ -29,4 +29,3 @@ A Spotify clone built with React, Tailwind CSS, Vite, Rapid API, Redux Toolkit a
 - [x] Vite production build
 - [x] Search songs by song names or singer
 - [x] Geo Locate Songs by country - No Endpoints from source API
-
